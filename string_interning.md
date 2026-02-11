@@ -12,4 +12,4 @@ Byte size of strings increases proportionally with the size of its largest chara
 - A string will be interned if it is a compile-time constant, is not the production of constant folding or is not longer than 20 characters, and consists exclusively of ASCII letters, digits, or underscores.
 Empty strings are interned.
 
-![String Interning](./string_interning.png)
+![String Interning](./assets/string_interning.png)
